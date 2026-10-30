@@ -4,6 +4,10 @@ Home networking and cybersecurity lab using OPNsense, VLANs, DHCP, firewall rout
 
 ## Project Overview
 
+## Network Topology
+
+![OPNsense Home Network Topology](Topology.png)
+
 This project documents my experience replacing an ISP-provided router with a dedicated OPNsense firewall running on a mini-PC.
 
 The aim was to gain practical experience in network administration, firewall configuration, VLAN tagging, DHCP, routing, and troubleshooting.
