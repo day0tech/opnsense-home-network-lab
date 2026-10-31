@@ -72,4 +72,4 @@ The completed configuration provided a foundation for implementing DHCP, network
 
 The next stage involved configuring the ISP-required IEEE 802.1Q VLAN 911 and troubleshooting an unexpected LAGG interface configuration.
 
-See [WAN and VLAN Configuration](02-WAN-VLAN-Configuration.md) once that document is available.
+See [WAN and VLAN Configuration](02-WAN-VLAN-Configuration.md) 
