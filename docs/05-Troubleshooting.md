@@ -44,6 +44,42 @@ I performed the following actions:
 
 ### Verification
 
+### Troubleshooting Evidence
+
+**1. Initial VLAN configuration failure**
+
+The VLAN interface initially had no parent interface assigned.
+
+![Initial VLAN failure](../screenshots/Vlan1.jpg)
+
+**2. Identifying the root cause**
+
+Using `ifconfig lagg0`, I discovered that the physical WAN interface `igc0` was a member of `lagg0`.
+
+![LAGG interface investigation](../screenshots/Laggs2.jpg)
+
+The OPNsense interface configuration also showed the unwanted LAGG device.
+
+![OPNsense LAGG configuration](../screenshots/Laggs Dashboard.png)
+
+**3. Removing the interface from LAGG**
+
+I removed `igc0` from `lagg0` using:
+
+`ifconfig lagg0 -laggport igc0`
+
+I then removed the unnecessary LAGG configuration through the OPNsense web interface.
+
+![Removing igc0 from LAGG](../screenshots/Laggs1.jpg)
+
+**4. Verifying the solution**
+
+After correcting the configuration, I checked the VLAN interface again.
+
+The output confirmed that VLAN 911 was correctly attached to `igc0`.
+
+![Successful VLAN 911 configuration](../screenshots/Vlan2.jpg)
+
 After applying the changes, the VLAN interface correctly displayed:
 
 ```text
