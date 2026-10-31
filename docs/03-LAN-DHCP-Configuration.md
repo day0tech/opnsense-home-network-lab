@@ -20,7 +20,14 @@ This configuration provides a single internal subnet for my home network.
 
 ### LAN Configuration Evidence
 
-![OPNsense LAN Configuration](../screenshots/LAN-Configuration.png)
+
+**LAN Interface Assignment**
+
+![OPNsense LAN Interface](../screenshots/Lan-Interface.png)
+
+**Static IPv4 Configuration**
+
+![OPNsense LAN IPv4 Address](../screenshots/Lan-IPv4.png)
 
 ## 2. DHCP Configuration
 
