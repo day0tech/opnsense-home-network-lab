@@ -86,9 +86,9 @@ The successful casting test also demonstrated that the phone and Fire TV Stick c
 
 ### Physical Hardware
 
-![Netgear Ethernet Switch](../screenshots/NetGear-Switch.PNG)
+<img src="../screenshots/NetGear-Switch.PNG" alt="Netgear Ethernet Switch" width="350">
 
-![TP-Link EX520v Access Point](../screenshots/Access-Point.PNG)
+<img src="../screenshots/Access-Point.PNG" alt="TP-Link EX520v Access Point" width="350">
 ## 6. Skills Demonstrated
 
 - Wireless networking
