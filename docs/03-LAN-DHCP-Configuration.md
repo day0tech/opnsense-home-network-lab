@@ -95,4 +95,4 @@ The LAN was successfully configured using the `192.168.1.0/24` network.
 
 OPNsense provides the internal network gateway and DHCP services, while the Netgear switch connects wired devices and the wireless access point.
 
-The next stage documents the TP-Link EX520v access point configuration.
+The next stage documents the [TP-Link EX520v access point configuration](04-WiFi-Access-Point.md).
