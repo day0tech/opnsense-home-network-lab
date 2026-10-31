@@ -26,6 +26,17 @@ This project is divided into five technical stages:
 
 ## Project Overview
 
+## Physical Home Lab Setup
+
+![OPNsense Physical Home Lab](screenshots/Physical-Topology.PNG)
+
+This photograph shows my physical home network infrastructure,
+including the TP-Link wireless access point, Netgear Ethernet
+switch, and mini-PC running OPNsense.
+
+The OPNsense firewall replaces the ISP-provided router and
+provides routing, NAT, DHCP, and firewall functionality.
+
 ## Network Topology
 
 ![OPNsense Home Network Topology](Topology.png)
