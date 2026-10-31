@@ -60,7 +60,7 @@ Using `ifconfig lagg0`, I discovered that the physical WAN interface `igc0` was 
 
 The OPNsense interface configuration also showed the unwanted LAGG device.
 
-![OPNsense LAGG configuration](../screenshots/Laggs Dashboard.png)
+![OPNsense LAGG configuration](../screenshots/Laggs-Dashboard.png)
 
 **3. Removing the interface from LAGG**
 
