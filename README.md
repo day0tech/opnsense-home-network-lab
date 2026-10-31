@@ -28,8 +28,7 @@ This project is divided into five technical stages:
 
 ## Physical Home Lab Setup
 
-![OPNsense Physical Home Lab](screenshots/Physical-Topology.PNG)
-
+<img src="screenshots/Physical-Topology.PNG" alt="OPNsense Physical Home Lab" width="400">
 This photograph shows my physical home network infrastructure,
 including the TP-Link wireless access point, Netgear Ethernet
 switch, and mini-PC running OPNsense.
