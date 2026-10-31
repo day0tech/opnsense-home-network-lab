@@ -82,14 +82,13 @@ The successful casting test also demonstrated that the phone and Fire TV Stick c
 
 ### TP-Link LAN Configuration
 
-![TP-Link EX520v Access Point](../screenshots/AP-Config.png
+![TP-Link EX520v Access Point](../screenshots/AP-Config.png)
 
 ### Physical Hardware
 
-![TP-Link EX520v Access Point](../screenshots/NetGear-Switch.PNG
+![Netgear Ethernet Switch](../screenshots/NetGear-Switch.PNG)
 
-![TP-Link EX520v Access Point](../screenshots/Access-Point.PNG
-
+![TP-Link EX520v Access Point](../screenshots/Access-Point.PNG)
 ## 6. Skills Demonstrated
 
 - Wireless networking
