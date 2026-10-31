@@ -173,4 +173,4 @@ The WAN configuration was successfully completed.
 
 OPNsense established a direct connection to Fibrecast using VLAN 911 and DHCP, allowing the mini-PC to replace the original ISP router.
 
-The next stage involved configuring the internal [LAN and DHCP address allocation](docs/03-LAN-DHCP-Configuration.md) and wired network connectivity.
+The next stage involved configuring the internal [LAN and DHCP address allocation](03-LAN-DHCP-Configuration.md) and wired network connectivity.
