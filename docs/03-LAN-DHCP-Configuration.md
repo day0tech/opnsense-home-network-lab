@@ -49,7 +49,7 @@ For example, OPNsense uses `192.168.1.1` and the TP-Link access point uses `192.
 
 ### DHCP Configuration Evidence
 
-![OPNsense DHCP Range](../screenshots/DHCP-Range.png)
+![OPNsense Dnsmasq DHCP Range](../screenshots/DHCP-Ranges.png)
 
 ## 3. Ethernet Switch Integration
 
