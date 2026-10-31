@@ -1,6 +1,28 @@
 # opnsense-home-network-lab
 Home networking and cybersecurity lab using OPNsense, VLANs, DHCP, firewall routing and Wi-Fi access point configuration.
 # OPNsense Home Network & Firewall Lab
+--------------------------------------------------
+## Project Documentation
+
+This project is divided into five technical stages:
+
+1. [OPNsense Installation](docs/01-Installation.md)
+2. [WAN and VLAN Configuration](docs/02-WAN-VLAN-Configuration.md)
+3. [LAN and DHCP Configuration](docs/03-LAN-DHCP-Configuration.md)
+4. [Wireless Access Point Configuration](docs/04-WiFi-Access-Point.md)
+5. [Network Troubleshooting](docs/05-Troubleshooting.md)
+
+## Skills Demonstrated
+
+- OPNsense firewall installation and administration
+- IEEE 802.1Q VLAN tagging
+- IPv4 addressing and subnetting
+- DHCP configuration using Dnsmasq
+- Network routing and connectivity testing
+- Ethernet switching and wireless access points
+- FreeBSD command-line troubleshooting
+- Technical documentation and problem-solving
+--------------------------------------------------
 
 ## Project Overview
 
@@ -81,23 +103,3 @@ After removing the LAGG configuration and restarting OPNsense, I verified that V
 
 **Phase 1 complete:** OPNsense successfully deployed as the main home router and firewall, providing internet connectivity to wired and wireless clients.
 
-## Project Documentation
-
-This project is divided into five technical stages:
-
-1. [OPNsense Installation](docs/01-Installation.md)
-2. [WAN and VLAN Configuration](docs/02-WAN-VLAN-Configuration.md)
-3. [LAN and DHCP Configuration](docs/03-LAN-DHCP-Configuration.md)
-4. [Wireless Access Point Configuration](docs/04-WiFi-Access-Point.md)
-5. [Network Troubleshooting](docs/05-Troubleshooting.md)
-
-## Skills Demonstrated
-
-- OPNsense firewall installation and administration
-- IEEE 802.1Q VLAN tagging
-- IPv4 addressing and subnetting
-- DHCP configuration using Dnsmasq
-- Network routing and connectivity testing
-- Ethernet switching and wireless access points
-- FreeBSD command-line troubleshooting
-- Technical documentation and problem-solving
