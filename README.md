@@ -101,13 +101,12 @@ After removing the LAGG configuration and restarting OPNsense, I verified that V
 
 ## Future Improvements
 
-- [ ] Implement network segmentation using VLANs
-- [ ] Configure inter-VLAN firewall rules
-- [ ] Deploy Suricata IDS/IPS
-- [ ] Configure firewall logging and monitoring
-- [ ] Implement secure remote VPN access
-- [ ] Create and document firewall configuration backups
-- [ ] Add network topology diagrams and screenshots
+Implement Split VPN & Full VPN for remote access
+Configure NAS file server 
+Deploy Suricata IDS/IPS
+Configure firewall logging and monitoring
+Create software & configuration backups
+Add network topology diagrams and screenshots
 
 ## Project Status
 
