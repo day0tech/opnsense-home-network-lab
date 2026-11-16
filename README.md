@@ -101,12 +101,12 @@ After removing the LAGG configuration and restarting OPNsense, I verified that V
 
 ## Future Improvements
 
-Implement Split VPN & Full VPN for remote access
-Configure NAS file server 
-Deploy Suricata IDS/IPS
-Configure firewall logging and monitoring
-Create software & configuration backups
-Add network topology diagrams and screenshots
+- Implement Split VPN & Full VPN for remote access
+- Configure NAS file server 
+- Deploy Suricata IDS/IPS
+- Configure firewall logging and monitoring
+- Create software & configuration backups
+- Add network topology diagrams and screenshots
 
 ## Project Status
 
